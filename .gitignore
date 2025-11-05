@@ -1,4 +1,11 @@
-./build
-./include
-./lauch
-./vscode
+# Build and install files
+build/
+install/
+log/
+
+# IDE configuration
+.vscode/
+
+# Temporary or cache files
+__pycache__/
+*.pyc
